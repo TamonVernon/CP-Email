@@ -1,0 +1,38 @@
+https://i.postimg.cc/NfzvV24Q/appstore.png
+https://i.postimg.cc/pVkHf65h/bell-icon.png
+https://i.postimg.cc/RFVP4XSy/cartoon-flame.png
+https://i.postimg.cc/0yK1q5WD/check-icon.png
+https://i.postimg.cc/zB5sWCJF/facebook-icon.png
+https://i.postimg.cc/rFmLQN5h/google-icon.png
+https://i.postimg.cc/q7fVBfSY/header.jpg
+https://i.postimg.cc/43zCmLT3/image-head.jpg
+https://i.postimg.cc/NM4WxKFq/linkedin-icon.png
+https://i.postimg.cc/L58GQmgq/logo.png
+https://i.postimg.cc/vT2kpC50/menu-icon.png
+https://i.postimg.cc/bYm7DS41/one-app.jpg
+https://i.postimg.cc/Fs12jsQ8/phone-icon.png
+https://i.postimg.cc/SN5HVFSs/pinterest-icon.png
+https://i.postimg.cc/g2ZQTSjK/playstore.png
+https://i.postimg.cc/yNCt4mSC/retina-icon.png
+https://i.postimg.cc/g0y5YxvX/settings-icon.png
+https://i.postimg.cc/RFXDH2pv/share-icon.png
+https://i.postimg.cc/zBJQ3qjd/share-icon2.png
+https://i.postimg.cc/0jjHdZhD/smartwatch.png
+https://i.postimg.cc/gj7tM8P5/twitter-icon.png
+https://i.postimg.cc/DwLpgSpj/unnamed.jpg
+https://i.postimg.cc/NfyzKJ6w/watch-screen.png
+https://i.postimg.cc/dQNftPTB/watch-screen-37.png
+https://i.postimg.cc/YSxX5JHQ/watch-screen-39.png
+https://i.postimg.cc/kXkhKQsR/wifi-icon.png
+https://i.postimg.cc/DzhjY7t2/youtube-icon.png
+
+
+
+
+
+
+p style=" font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #7f8887; line-height: 1.8; font-weight: 600;; font-size: 14px; padding: 0 0 20px;
+ h5 style="text-align: center; font-weight: 300;"
+ <td style="text-align: center; text-transform: capitalize; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight: 300; font-size: 24px; padding: 35px 0 5px 0;">
+ <a href="# " style="font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #2792ec; font-weight: 600; font-size: 14px; text-decoration: none; ">Learn more</a>
+ style="font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; padding: 0 0 0 15px; font-weight: 600; text-transform: uppercase; font-size: 14px; 
